@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kjimin0619
+- 👋 Hi, I’m Jimin
 - 👀 I’m interested in ...
 - 💻 I'm majoring in Computer Science Engineering
 - 🌱 I’m currently learning deep learning
