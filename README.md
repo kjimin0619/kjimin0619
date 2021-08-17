@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jimin
+- 👋 Hi, I’m Jimin Kim
 - 👀 I’m interested in ...
-- 💻 I'm majoring in Computer Science Engineering
+- 💻 I'm majoring in Computer Science & Engineering
 - 📫 How to reach me ...
 
 <!---
