@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jimin Kim
+# 👋 I’m Jimin Kim
 - 👀 I’m interested in Computer Graphics and Image processing
 - 💻 I'm majoring in Computer Science & Engineering
 - 📫 How to reach me ...
