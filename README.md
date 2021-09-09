@@ -1,5 +1,5 @@
 # 👋 I’m Jimin Kim
-- 👀 I’m interested in Computer Graphics and Image processing
+- 👀 I’m interested in Computer Graphics
 - 💻 I'm majoring in Computer Science & Engineering
 - 📫 How to reach me ...
 
