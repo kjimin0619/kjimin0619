@@ -1,5 +1,5 @@
 # Jimin Kim
- 👀 I’m interested in Computer Graphics and VR&AR  
+ 👀 I’m interested in Computer Graphics
  💻 I'm majoring in Computer Science & Engineering
 
 <!---
