@@ -1,5 +1,5 @@
 # Jimin Kim
-💻 I'm majoring in Computer Science & Engineering
+💻 I'm majoring in Computer Science & Engineering  
 👀 I’m interested in Computer Graphics  
 
 <!---
